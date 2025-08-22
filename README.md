@@ -2,6 +2,11 @@
 
 A minimal custom web browser built with Python + QtWebEngine 
 
+## Features (v0.1)
+- Loads web pages
+- Address bar for navigation
+- URL updates when browsing
+
 ## 🚀 Goals
 - Build a working browser shell (tabs, history, bookmarks).
 - Document every step to learn browser architecture.
